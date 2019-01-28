@@ -12,13 +12,13 @@ github_repo: "https://github.com/z951/z951.github.io.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     2120782211
+weibo_username:     951z
 # zhihu_username:     qiubaiying
 github_username:    z951
 # facebook_username:  baiying.qiu.7
